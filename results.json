@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Перець Metro Chef червоний",
+    "photo": "https://img2.zakaz.ua/done.1609338493.ad72436478c_2020-12-30_Svetlana/done.1609338493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 129.9,
+    "unit": "за 1 кг",
+    "old_price": 139.9
+  },
+  {
+    "name": "Філе куряче Наша Ряба охолоджене ~1кг",
+    "photo": "https://img3.zakaz.ua/ryaba.1663626176.ad72436478c_2022-09-22_Tatiana/ryaba.1663626176.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 152.9,
+    "unit": "за 1 кг",
+    "old_price": 189.9
+  },
+  {
+    "name": "Філе стегна курчат-бройлерів Епікур охолоджене ~1кг",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.b6a59ad5818db497f98af8b832703d3c.150x150.jpeg",
+    "price": 169.9,
+    "unit": "за 1 кг",
+    "old_price": 199.9
+  },
+  {
+    "name": "Масло Молокiя солодковершкове 82% 180г",
+    "photo": "https://img3.zakaz.ua/30082022.1661863354.ad72436478c_2022-08-30_Tatyana_L/30082022.1661863354.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 72.7,
+    "unit": "180 г",
+    "old_price": 86.22
+  },
+  {
+    "name": "Сметана Ферма 20% 350г",
+    "photo": "https://img3.zakaz.ua/956db4a4b5ab47209884831b9fda3dfc/1701865331-s150x150.jpg",
+    "price": 40.46,
+    "unit": "350 г",
+    "old_price": 52.52
+  },
+  {
+    "name": "Фарш Наша Ряба Соковитий охолоджений 500г",
+    "photo": "https://img3.zakaz.ua/ryaba.1663834570.ad72436478c_2022-09-22_Tatiana/ryaba.1663834570.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 87.26,
+    "unit": "500 г",
+    "old_price": 103.9
+  },
+  {
+    "name": "Хліб бездріжджовий з висівками 350г",
+    "photo": "https://img2.zakaz.ua/27092021.1632740360.ad72436478c_2021-09-27_Tatyana_L/27092021.1632740360.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 27.03,
+    "unit": "350 г",
+    "old_price": 31.69
+  },
+  {
+    "name": "Гомілка курчати-бройлера Епікур охолоджена ~700г",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.109affdc4c42a85a9f3709f5d291b550.150x150.jpeg",
+    "price": 95.58,
+    "unit": "за 1 кг",
+    "old_price": 122.62
+  },
+  {
+    "name": "Вода мінеральна Моршинська слабогазована 1,5л",
+    "photo": "https://img3.zakaz.ua/borjomi.1615469512.ad72436478c_2021-03-11_Tatyana/borjomi.1615469512.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 113.9,
+    "unit": "1.5 л • 6 шт. в уп.",
+    "old_price": 127.9
+  },
+  {
+    "name": "Авокадо Хасс бебі 1кг",
+    "photo": "https://img2.zakaz.ua/m.1620832852.ad72436478c_2021-05-12_Svetlana/m.1620832852.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 207.9,
+    "unit": "шт",
+    "old_price": 280.7
+  },
+  {
+    "name": "Сік Galicia яблучний 1л",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.f6916da9446cd3a75ca555c3a5288bb3.150x150.jpeg",
+    "price": 49.71,
+    "unit": "1 л",
+    "old_price": 59.25
+  },
+  {
+    "name": "Сметана Молокія 15% 300г",
+    "photo": "https://img2.zakaz.ua/b571925fdad34ccaac86311beee4f93c/1678206159-s150x150.jpg",
+    "price": 33.18,
+    "unit": "300 г",
+    "old_price": 40.46
+  },
+  {
+    "name": "Полуниця 250г",
+    "photo": "https://img3.zakaz.ua/0f2a1ecf2394481cb5734eaeef54f039/1705481438-s150x150.jpg",
+    "price": 83.1,
+    "unit": "250 г",
+    "old_price": 103.9
+  },
+  {
+    "name": "Філе індика Натурвіль охолоджене ~1кг",
+    "photo": "https://img3.zakaz.ua/e2c4ea1022a741a5b2e44ed769b4331f/1675689677-s150x150.jpg",
+    "price": 248.29,
+    "unit": "за 1 кг",
+    "old_price": 286.09
+  },
+  {
+    "name": "Вершки Бурьонка ультрапастеризовані 10% 500г",
+    "photo": "https://img3.zakaz.ua/5e83a2d535d8480a9f53d096566997ea/1685182825-s150x150.jpg",
+    "price": 45.66,
+    "unit": "500 г",
+    "old_price": 49.82
+  },
+  {
+    "name": "Авокадо дрібне, шт",
+    "photo": "https://img3.zakaz.ua/72d6d624fbf9497c96ed8f684b623844/1676983651-s150x150.jpg",
+    "price": 35.26,
+    "unit": "шт",
+    "old_price": 41.5
+  },
+  {
+    "name": "Серце курчати-бройлера Наша Ряба охлоджене 700г",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.2cd643a797b9d6dddc050b3fa390b5b4.150x150.jpeg",
+    "price": 83.1,
+    "unit": "700 г",
+    "old_price": 107.02
+  },
+  {
+    "name": "Туалетний папір Zewa Deluxe білий тришаровий 16шт",
+    "photo": "https://img3.zakaz.ua/ec400822e7bd40f79175da98041706d7/1675320681-s150x150.jpg",
+    "price": 279.9,
+    "unit": "шт",
+    "old_price": 483.5
+  },
+  {
+    "name": "Сир Комо Голландія твердий нарізаний скибочками 45% 150г",
+    "photo": "https://img2.zakaz.ua/fa5eba7e07e240e091d63fd352d3ea25/1692707647-s150x150.jpg",
+    "price": 59.18,
+    "unit": "150 г",
+    "old_price": 73.74
+  },
+  {
+    "name": "Сметана Молокія 20% 300г",
+    "photo": "https://img2.zakaz.ua/a69f67f471534c009201811ff2a16882/1678206159-s150x150.jpg",
+    "price": 41.5,
+    "unit": "300 г",
+    "old_price": 45.97
+  },
+  {
+    "name": "Вода мінеральна Моршинська сильногазована 1,5л",
+    "photo": "https://img2.zakaz.ua/borjomi.1615469612.ad72436478c_2021-03-11_Tatyana/borjomi.1615469612.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 120.73,
+    "unit": "1.5 л • 6 шт. в уп.",
+    "old_price": 135.57
+  },
+  {
+    "name": "Філе куряче Наша Ряба Міньйон охолоджене ~600г",
+    "photo": "https://img2.zakaz.ua/ryaba.1663795728.ad72436478c_2022-09-22_Tatiana/ryaba.1663795728.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 161.1,
+    "unit": "за 1 кг",
+    "old_price": 200.62
+  },
+  {
+    "name": "Ковбаса Алан Лікарська варена натуральна оболонка в/ґ ~400г",
+    "photo": "https://img3.zakaz.ua/done.1607515895.ad72436478c_2020-12-09_Svetlana/done.1607515895.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 280.69,
+    "unit": "за 1 кг",
+    "old_price": 337.93
+  },
+  {
+    "name": "Сир кисломолочний Молокія 9% 350г",
+    "photo": "https://img3.zakaz.ua/30082022.1661868527.ad72436478c_2022-08-30_Tatyana_L/30082022.1661868527.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 57.1,
+    "unit": "350 г",
+    "old_price": 70.62
+  },
+  {
+    "name": "Сосиски Алан Віденські варені 376г",
+    "photo": "https://img3.zakaz.ua/src.1619070720.ad72436478c_2021-04-22_Tamara/src.1619070720.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 105.89,
+    "unit": "376 г",
+    "old_price": 127.09
+  },
+  {
+    "name": "Пельмені Мішутка з м'ясом індички 400г",
+    "photo": "https://img2.zakaz.ua/17af116a61ea4681a211f4c5a210df1e/1700080114-s150x150.jpg",
+    "price": 78.33,
+    "unit": "400 г",
+    "old_price": 108.01
+  },
+  {
+    "name": "Вершки Простонаше стерилізовані 33% 200г",
+    "photo": "https://img3.zakaz.ua/bfdf20b2c7d34327b4111b88d0145390/1695055493-s150x150.jpg",
+    "price": 51.9,
+    "unit": "200 г",
+    "old_price": 67.5
+  },
+  {
+    "name": "Сухарики Finn Crisp Original житні 200г",
+    "photo": "https://img3.zakaz.ua/420cd732e82944279502d6422070742a/1686883321-s150x150.jpg",
+    "price": 75.49,
+    "unit": "200 г",
+    "old_price": 85.21
+  },
+  {
+    "name": "Рушники паперові Ruta Mega двошарові 1шт",
+    "photo": "https://img2.zakaz.ua/mykolaiv.1622130183.ad72436478c_2021-05-27_Svetlana/mykolaiv.1622130183.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.9,
+    "unit": "шт",
+    "old_price": 81.02
+  },
+  {
+    "name": "Чипси Lay's Oven Baked картопляні зі смаком лисичок у сметані 110г",
+    "photo": "https://img3.zakaz.ua/6057ae6cdf5f49cd85d40325134dc766/1705488087-s150x150.jpg",
+    "price": 50.9,
+    "unit": "125 г",
+    "old_price": 72.61
+  },
+  {
+    "name": "Чипси Lay's Oven Baked картопляні зі смаком йогурту з травами 110г",
+    "photo": "https://img2.zakaz.ua/796adc6c1c3d48cb97a428f36ba0e678/1705488087-s150x150.jpg",
+    "price": 50.9,
+    "unit": "125 г",
+    "old_price": 72.61
+  },
+  {
+    "name": "Масло Молокія Селянське солодковершкове 73% 180г",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.31f4e0e95a7173bbf388b5bea4cd8463.150x150.jpeg",
+    "price": 65.42,
+    "unit": "180 г",
+    "old_price": 79.56
+  },
+  {
+    "name": "Лаваш БКК зі шпинатом 200г",
+    "photo": "https://img3.zakaz.ua/src.1668718645.ad72436478c_2022-11-17_Tatiana/src.1668718645.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 22.57,
+    "unit": "200 г",
+    "old_price": 32.94
+  },
+  {
+    "name": "Засіб  чистячий Cif Анти-наліт для ванної 500мл",
+    "photo": "https://img2.zakaz.ua/00d71d9bfd5e4ceb8fe70165cca3520f/1682482376-s150x150.jpg",
+    "price": 79.9,
+    "unit": "500 мл",
+    "old_price": 105.89
+  },
+  {
+    "name": "Стегно куряче Наша Ряба охолоджене ~1кг",
+    "photo": "https://img3.zakaz.ua/ryaba.1663625141.ad72436478c_2022-09-22_Tatiana/ryaba.1663625141.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 129.9,
+    "unit": "за 1 кг",
+    "old_price": 165.26
+  },
+  {
+    "name": "Олія оливкова Muelolivia Extra Virgin 1л",
+    "photo": "https://img3.zakaz.ua/8fd80f2755304089b1f5c1f7c9065e74/1696928405-s150x150.jpg",
+    "price": 475.94,
+    "unit": "1 л",
+    "old_price": 634.94
+  },
+  {
+    "name": "Сир Комо Традиційний нарізаний 50% 150г",
+    "photo": "https://img2.zakaz.ua/src.1659947402.ad72436478c_2022-08-08_Victor/src.1659947402.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 59.18,
+    "unit": "150 г",
+    "old_price": 73.74
+  },
+  {
+    "name": "Печиво Rioba Шалене полуниця 1кг",
+    "photo": "https://img3.zakaz.ua/69199c3e3e684335a65529fd02224509/1695223166-s150x150.jpg",
+    "price": 149.9,
+    "unit": "1 кг",
+    "old_price": 199.9
+  },
+  {
+    "name": "Туалетний папір Zewa Deluxe Delicate Care тришаровий 32шт",
+    "photo": "https://img3.zakaz.ua/ac0417648e5742d7bd13006cffc50e1f/1675323242-s150x150.jpg",
+    "price": 499.9,
+    "unit": "шт",
+    "old_price": 882.96
+  },
+  {
+    "name": "Бекон ЦеМ'ясо охолоджений 350г",
+    "photo": "https://img2.zakaz.ua/42dcd390e1ef4356a258f79a0f1a1f38/1684737806-s150x150.jpg",
+    "price": 97.09,
+    "unit": "350 г",
+    "old_price": 121.93
+  },
+  {
+    "name": "Сир кисломолочний Простонаше 9% 300г",
+    "photo": "https://img3.zakaz.ua/f342289f2efd4f38bb180f32671ac837/1695055493-s150x150.jpg",
+    "price": 60.22,
+    "unit": "300 г",
+    "old_price": 78.83
+  },
+  {
+    "name": "Чипси Lay's Oven Baked картопляні зі смаком овочів гриль 110г",
+    "photo": "https://img2.zakaz.ua/b0f356fda0c846b9a82cda46ba419194/1705488087-s150x150.jpg",
+    "price": 50.9,
+    "unit": "125 г",
+    "old_price": 72.61
+  },
+  {
+    "name": "Сир кисломолочний Молокія 5% 350г",
+    "photo": "https://img3.zakaz.ua/30082022.1661868457.ad72436478c_2022-08-30_Tatyana_L/30082022.1661868457.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 53.98,
+    "unit": "350 г",
+    "old_price": 71.24
+  },
+  {
+    "name": "Рушники паперові Zewa Jumbo двошарові 325 листів",
+    "photo": "https://img3.zakaz.ua/9ea36770466e4299ad536496a4d453b0/1675323089-s150x150.jpg",
+    "price": 150.7,
+    "unit": "шт",
+    "old_price": 250.95
+  },
+  {
+    "name": "Печиво Oreo Подвійна начинка з какао і начинкою з ванільним смаком 170г",
+    "photo": "https://img2.zakaz.ua/src.1674344104.ad72436478c_2023-01-23_Tetiana/src.1674344104.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 67.73,
+    "unit": "170 г",
+    "old_price": 89.57
+  },
+  {
+    "name": "Сіль для посудомийних машин Finish Calgonit 1,5кг",
+    "photo": "https://img3.zakaz.ua/src.1662912566.ad72436478c_2022-09-12_Tatiana/src.1662912566.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 97.09,
+    "unit": "1.5 кг",
+    "old_price": 116.53
+  },
+  {
+    "name": "Сметана Молокія 15% 400г",
+    "photo": "https://img3.zakaz.ua/30082022.1661860178.ad72436478c_2022-08-30_Tatyana_L/30082022.1661860178.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 37.34,
+    "unit": "400 г",
+    "old_price": 43.16
+  },
+  {
+    "name": "Кефір Молокія густий 2,5% 870г",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.2f0abcfcbe3c91d33a988088241ebdb1.150x150.jpeg",
+    "price": 39.42,
+    "unit": "870 г",
+    "old_price": 48.05
+  },
+  {
+    "name": "Фарш Наша Ряба Філейний охолоджений 400г",
+    "photo": "https://img2.zakaz.ua/ryaba.1663834442.ad72436478c_2022-09-22_Tatiana/ryaba.1663834442.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 72.7,
+    "unit": "400 г",
+    "old_price": 87.26
+  },
+  {
+    "name": "Йогурт Молокія безлактозний 2,5% 300г",
+    "photo": "https://img3.zakaz.ua/30082022.1661868355.ad72436478c_2022-08-30_Tatyana_L/30082022.1661868355.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 29.02,
+    "unit": "300 г",
+    "old_price": 39.73
+  },
+  {
+    "name": "Напій Алпро кокосово-мигдальний 1л",
+    "photo": "https://img2.zakaz.ua/0f551a81eeb9414ba283ca0ee2b5d546/1712033081-s150x150.jpg",
+    "price": 119.5,
+    "unit": "1 л",
+    "old_price": 144.46
+  },
+  {
+    "name": "Йогурт Молокія Білий Полуниця на подушці з ягід 5,7% 140г",
+    "photo": "https://img3.zakaz.ua/30082022.1661861336.ad72436478c_2022-08-30_Tatyana_L/30082022.1661861336.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 20.7,
+    "unit": "140 г",
+    "old_price": 26.94
+  },
+  {
+    "name": "Йогурт Молокія білий 1,6% 870г",
+    "photo": "https://img3.zakaz.ua/b446e444a174458e95119c1919e6accf/1678206159-s150x150.jpg",
+    "price": 47.74,
+    "unit": "870 г",
+    "old_price": 58.86
+  },
+  {
+    "name": "Крильця курячі Наша Ряба Апетитна в гірчично-медовому маринаді негострі охолоджені ~1кг",
+    "photo": "https://img2.zakaz.ua/9d7e23aa1b734a59a3498538cfe7fcdd/1694553945-s150x150.jpg",
+    "price": 109.1,
+    "unit": "за 1 кг",
+    "old_price": 133.02
+  },
+  {
+    "name": "Печиво Belvita Original Milk&Cereals з мультизлаками 225г",
+    "photo": "https://img2.zakaz.ua/src.1674345245.ad72436478c_2023-01-23_Tetiana/src.1674345245.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 58.19,
+    "unit": "225 г",
+    "old_price": 82.15
+  },
+  {
+    "name": "Засіб чистячий Cif Анти-жир для кухні 500мл",
+    "photo": "https://img3.zakaz.ua/a01f59ab69b645cbb909490015a2cc92/1682482376-s150x150.jpg",
+    "price": 79.9,
+    "unit": "500 мл",
+    "old_price": 105.89
+  },
+  {
+    "name": "Засіб для миття посуду Fairy Sensitive Чайне дерево та м'ята 450мл",
+    "photo": "https://img2.zakaz.ua/src.1663095223.ad72436478c_2022-09-13_Tatiana/src.1663095223.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 57.13,
+    "unit": "450 мл",
+    "old_price": 86.29
+  },
+  {
+    "name": "Йогурт Молокія по-грецьки 8% 300г",
+    "photo": "https://img2.zakaz.ua/30082022.1661867722.ad72436478c_2022-08-30_Tatyana_L/30082022.1661867722.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 31.1,
+    "unit": "300 г",
+    "old_price": 40.25
+  },
+  {
+    "name": "Крабові палички VICI з м'ясом натурального краба заморожені 200г",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.90fe5492bf62ccfa61c7b252b5254c14.150x150.jpeg",
+    "price": 127.09,
+    "unit": "200 г",
+    "old_price": 168.43
+  },
+  {
+    "name": "Туалетний папір Zewa Deluxe Персик тришаровий 16шт",
+    "photo": "https://img3.zakaz.ua/c462dfe21ee64593bc10bbbf615b6b34/1675320600-s150x150.jpg",
+    "price": 279.9,
+    "unit": "шт",
+    "old_price": 483.5
+  },
+  {
+    "name": "Чипси Lay's Oven Baked картопляні зі смаком йогурту з травами 110г",
+    "photo": "https://img2.zakaz.ua/796adc6c1c3d48cb97a428f36ba0e678/1705488087-s150x150.jpg",
+    "price": 50.9,
+    "unit": "125 г",
+    "old_price": 72.61
+  },
+  {
+    "name": "Масло Молокія Селянське солодковершкове 73% 180г",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.31f4e0e95a7173bbf388b5bea4cd8463.150x150.jpeg",
+    "price": 65.42,
+    "unit": "180 г",
+    "old_price": 79.56
+  },
+  {
+    "name": "Лаваш БКК зі шпинатом 200г",
+    "photo": "https://img3.zakaz.ua/src.1668718645.ad72436478c_2022-11-17_Tatiana/src.1668718645.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 22.57,
+    "unit": "200 г",
+    "old_price": 32.94
+  },
+  {
+    "name": "Засіб  чистячий Cif Анти-наліт для ванної 500мл",
+    "photo": "https://img2.zakaz.ua/00d71d9bfd5e4ceb8fe70165cca3520f/1682482376-s150x150.jpg",
+    "price": 79.9,
+    "unit": "500 мл",
+    "old_price": 105.89
+  },
+  {
+    "name": "Стегно куряче Наша Ряба охолоджене ~1кг",
+    "photo": "https://img2.zakaz.ua/ryaba.1663625141.ad72436478c_2022-09-22_Tatiana/ryaba.1663625141.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 129.9,
+    "unit": "за 1 кг",
+    "old_price": 165.26
+  },
+  {
+    "name": "Олія оливкова Muelolivia Extra Virgin 1л",
+    "photo": "https://img3.zakaz.ua/8fd80f2755304089b1f5c1f7c9065e74/1696928405-s150x150.jpg",
+    "price": 475.94,
+    "unit": "1 л",
+    "old_price": 634.94
+  },
+  {
+    "name": "Сир Комо Традиційний нарізаний 50% 150г",
+    "photo": "https://img3.zakaz.ua/src.1659947402.ad72436478c_2022-08-08_Victor/src.1659947402.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 59.18,
+    "unit": "150 г",
+    "old_price": 73.74
+  },
+  {
+    "name": "Печиво Rioba Шалене полуниця 1кг",
+    "photo": "https://img2.zakaz.ua/69199c3e3e684335a65529fd02224509/1695223166-s150x150.jpg",
+    "price": 149.9,
+    "unit": "1 кг",
+    "old_price": 199.9
+  },
+  {
+    "name": "Туалетний папір Zewa Deluxe Delicate Care тришаровий 32шт",
+    "photo": "https://img2.zakaz.ua/ac0417648e5742d7bd13006cffc50e1f/1675323242-s150x150.jpg",
+    "price": 499.9,
+    "unit": "шт",
+    "old_price": 882.96
+  },
+  {
+    "name": "Бекон ЦеМ'ясо охолоджений 350г",
+    "photo": "https://img2.zakaz.ua/42dcd390e1ef4356a258f79a0f1a1f38/1684737806-s150x150.jpg",
+    "price": 97.09,
+    "unit": "350 г",
+    "old_price": 121.93
+  },
+  {
+    "name": "Сир кисломолочний Простонаше 9% 300г",
+    "photo": "https://img2.zakaz.ua/f342289f2efd4f38bb180f32671ac837/1695055493-s150x150.jpg",
+    "price": 60.22,
+    "unit": "300 г",
+    "old_price": 78.83
+  },
+  {
+    "name": "Чипси Lay's Oven Baked картопляні зі смаком овочів гриль 110г",
+    "photo": "https://img3.zakaz.ua/b0f356fda0c846b9a82cda46ba419194/1705488087-s150x150.jpg",
+    "price": 50.9,
+    "unit": "125 г",
+    "old_price": 72.61
+  },
+  {
+    "name": "Сир кисломолочний Молокія 5% 350г",
+    "photo": "https://img3.zakaz.ua/30082022.1661868457.ad72436478c_2022-08-30_Tatyana_L/30082022.1661868457.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 53.98,
+    "unit": "350 г",
+    "old_price": 71.24
+  },
+  {
+    "name": "Рушники паперові Zewa Jumbo двошарові 325 листів",
+    "photo": "https://img3.zakaz.ua/9ea36770466e4299ad536496a4d453b0/1675323089-s150x150.jpg",
+    "price": 150.7,
+    "unit": "шт",
+    "old_price": 250.95
+  },
+  {
+    "name": "Печиво Oreo Подвійна начинка з какао і начинкою з ванільним смаком 170г",
+    "photo": "https://img3.zakaz.ua/src.1674344104.ad72436478c_2023-01-23_Tetiana/src.1674344104.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 67.73,
+    "unit": "170 г",
+    "old_price": 89.57
+  },
+  {
+    "name": "Сіль для посудомийних машин Finish Calgonit 1,5кг",
+    "photo": "https://img3.zakaz.ua/src.1662912566.ad72436478c_2022-09-12_Tatiana/src.1662912566.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 97.09,
+    "unit": "1.5 кг",
+    "old_price": 116.53
+  },
+  {
+    "name": "Сметана Молокія 15% 400г",
+    "photo": "https://img2.zakaz.ua/30082022.1661860178.ad72436478c_2022-08-30_Tatyana_L/30082022.1661860178.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 37.34,
+    "unit": "400 г",
+    "old_price": 43.16
+  },
+  {
+    "name": "Кефір Молокія густий 2,5% 870г",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.2f0abcfcbe3c91d33a988088241ebdb1.150x150.jpeg",
+    "price": 39.42,
+    "unit": "870 г",
+    "old_price": 48.05
+  },
+  {
+    "name": "Фарш Наша Ряба Філейний охолоджений 400г",
+    "photo": "https://img2.zakaz.ua/ryaba.1663834442.ad72436478c_2022-09-22_Tatiana/ryaba.1663834442.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 72.7,
+    "unit": "400 г",
+    "old_price": 87.26
+  },
+  {
+    "name": "Йогурт Молокія безлактозний 2,5% 300г",
+    "photo": "https://img2.zakaz.ua/30082022.1661868355.ad72436478c_2022-08-30_Tatyana_L/30082022.1661868355.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 29.02,
+    "unit": "300 г",
+    "old_price": 39.73
+  },
+  {
+    "name": "Напій Алпро кокосово-мигдальний 1л",
+    "photo": "https://img3.zakaz.ua/0f551a81eeb9414ba283ca0ee2b5d546/1712033081-s150x150.jpg",
+    "price": 119.5,
+    "unit": "1 л",
+    "old_price": 144.46
+  },
+  {
+    "name": "Йогурт Молокія Білий Полуниця на подушці з ягід 5,7% 140г",
+    "photo": "https://img3.zakaz.ua/30082022.1661861336.ad72436478c_2022-08-30_Tatyana_L/30082022.1661861336.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 20.7,
+    "unit": "140 г",
+    "old_price": 26.94
+  },
+  {
+    "name": "Йогурт Молокія білий 1,6% 870г",
+    "photo": "https://img3.zakaz.ua/b446e444a174458e95119c1919e6accf/1678206159-s150x150.jpg",
+    "price": 47.74,
+    "unit": "870 г",
+    "old_price": 58.86
+  },
+  {
+    "name": "Крильця курячі Наша Ряба Апетитна в гірчично-медовому маринаді негострі охолоджені ~1кг",
+    "photo": "https://img3.zakaz.ua/9d7e23aa1b734a59a3498538cfe7fcdd/1694553945-s150x150.jpg",
+    "price": 109.1,
+    "unit": "за 1 кг",
+    "old_price": 133.02
+  },
+  {
+    "name": "Печиво Belvita Original Milk&Cereals з мультизлаками 225г",
+    "photo": "https://img3.zakaz.ua/src.1674345245.ad72436478c_2023-01-23_Tetiana/src.1674345245.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 58.19,
+    "unit": "225 г",
+    "old_price": 82.15
+  },
+  {
+    "name": "Засіб чистячий Cif Анти-жир для кухні 500мл",
+    "photo": "https://img2.zakaz.ua/a01f59ab69b645cbb909490015a2cc92/1682482376-s150x150.jpg",
+    "price": 79.9,
+    "unit": "500 мл",
+    "old_price": 105.89
+  },
+  {
+    "name": "Засіб для миття посуду Fairy Sensitive Чайне дерево та м'ята 450мл",
+    "photo": "https://img2.zakaz.ua/src.1663095223.ad72436478c_2022-09-13_Tatiana/src.1663095223.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 57.13,
+    "unit": "450 мл",
+    "old_price": 86.29
+  },
+  {
+    "name": "Йогурт Молокія по-грецьки 8% 300г",
+    "photo": "https://img3.zakaz.ua/30082022.1661867722.ad72436478c_2022-08-30_Tatyana_L/30082022.1661867722.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 31.1,
+    "unit": "300 г",
+    "old_price": 40.25
+  },
+  {
+    "name": "Крабові палички VICI з м'ясом натурального краба заморожені 200г",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.90fe5492bf62ccfa61c7b252b5254c14.150x150.jpeg",
+    "price": 127.09,
+    "unit": "200 г",
+    "old_price": 168.43
+  },
+  {
+    "name": "Туалетний папір Zewa Deluxe Персик тришаровий 16шт",
+    "photo": "https://img2.zakaz.ua/c462dfe21ee64593bc10bbbf615b6b34/1675320600-s150x150.jpg",
+    "price": 279.9,
+    "unit": "шт",
+    "old_price": 483.5
+  },
+  {
+    "name": "Журавлина Bakalland сушена 100г",
+    "photo": "https://img2.zakaz.ua/3ad635ba9de441cfa5842226d2ef914f/1699441475-s150x150.jpg",
+    "price": 48.5,
+    "unit": "100 г",
+    "old_price": 70.09
+  },
+  {
+    "name": "Сік Galicia томатний 1л",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.075d7888b6ce3cbbc13f6c08ea995034.150x150.jpeg",
+    "price": 52.89,
+    "unit": "1 л",
+    "old_price": 60.31
+  },
+  {
+    "name": "Сир кисломолочний Молокія 5% 200г",
+    "photo": "https://img3.zakaz.ua/30082022.1661858714.ad72436478c_2022-08-30_Tatyana_L/30082022.1661858714.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 30.06,
+    "unit": "200 г",
+    "old_price": 38.38
+  },
+  {
+    "name": "Шлунок курчати-бройлера Наша ряба охолоджений 700г",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.006a50b312a285ee30c27bce31d72786.150x150.jpeg",
+    "price": 57.1,
+    "unit": "650 г",
+    "old_price": 71.66
+  },
+  {
+    "name": "Прокладки гігієнічні Always Ultra Secure Night 4 12шт",
+    "photo": "https://img2.zakaz.ua/2fa186af8ea04fd18cadef9b7b4f3ca9/1692281897-s150x150.jpg",
+    "price": 90.38,
+    "unit": "81 г",
+    "old_price": 117.42
+  },
+  {
+    "name": "Пряники Delicia Ворзельські заварні з декором 1,3кг",
+    "photo": "https://img3.zakaz.ua/c274aa5c49aa4d9aa4cea1086f71dfee/1677697696-s150x150.jpg",
+    "price": 186.45,
+    "unit": "1.3 кг",
+    "old_price": 248.99
+  },
+  {
+    "name": "Засіб дезинфікуючий Domestos Свіжість Атлантики 1л",
+    "photo": "https://img2.zakaz.ua/2.1636922787.ad72436478c_2021-11-15_Tatyana_L/2.1636922787.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 99.9,
+    "unit": "1 л",
+    "old_price": 122.96
+  },
+  {
+    "name": "Засіб мийний Mr.Muscle Ранкова роса для скла 500мл",
+    "photo": "https://img3.zakaz.ua/src.1643637254.ad72436478c_2022-02-01_Tatiana/src.1643637254.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 79.9,
+    "unit": "500 мл",
+    "old_price": 104.94
+  },
+  {
+    "name": "Насіння чіа Сто пудов 500г",
+    "photo": "https://img3.zakaz.ua/1604459a8c7044baad5a31b625605510/1693212507-s150x150.jpg",
+    "price": 142.99,
+    "unit": "500 г",
+    "old_price": 190.69
+  },
+  {
+    "name": "Пельмені Мішутка з м'ясом курчат 400г",
+    "photo": "https://img3.zakaz.ua/1f58b8ef4032438e930939ccf14b7d5f/1700080114-s150x150.jpg",
+    "price": 68.79,
+    "unit": "400 г",
+    "old_price": 111.19
+  },
+  {
+    "name": "Ополіскувач для білизни Silan Sensitive&Baby 2,85л",
+    "photo": "https://img3.zakaz.ua/src.1667939711.ad72436478c_2022-11-08_Tatiana/src.1667939711.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 269.9,
+    "unit": "2.85 л",
+    "old_price": 431.89
+  },
+  {
+    "name": "Йогурт Молокія Груша-ваніль білий + гранола 2,5% 170г",
+    "photo": "https://img3.zakaz.ua/30082022.1661869432.ad72436478c_2022-08-30_Tatyana_L/30082022.1661869432.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 22.78,
+    "unit": "170 г",
+    "old_price": 30.58
+  },
+  {
+    "name": "Пельмені Мішутка з м'ясом телятини 400г",
+    "photo": "https://img2.zakaz.ua/af65667a77f34552bee175af236c8ae7/1700080114-s150x150.jpg",
+    "price": 89.99,
+    "unit": "400 г",
+    "old_price": 104.41
+  },
+  {
+    "name": "Прокладки гігієнічні Always Ultra Normal 1 20шт",
+    "photo": "https://img3.zakaz.ua/5bbc015edb31443c8b408562454f3ccb/1692281897-s150x150.jpg",
+    "price": 90.38,
+    "unit": "шт",
+    "old_price": 117.42
+  },
+  {
+    "name": "Печиво Belvita з медом та горіхами 225г",
+    "photo": "https://img2.zakaz.ua/src.1674345159.ad72436478c_2023-01-23_Tetiana/src.1674345159.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 58.19,
+    "unit": "225 г",
+    "old_price": 82.15
+  },
+  {
+    "name": "Диски чистоти Duck Цитрусовий бриз 1шт",
+    "photo": "https://img2.zakaz.ua/src.1643639254.ad72436478c_2022-02-01_Tatiana/src.1643639254.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 100.59,
+    "unit": "38 г",
+    "old_price": 133.56
+  },
+  {
+    "name": "Йогурт Молокія білий + пробіотики 2,5% 300г",
+    "photo": "https://img3.zakaz.ua/30082022.1661868274.ad72436478c_2022-08-30_Tatyana_L/30082022.1661868274.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 29.02,
+    "unit": "300 г",
+    "old_price": 37.75
+  },
+  {
+    "name": "Засіб дезінфікуючий Duck Суперсила Видимий ефект для унітазу 900мл",
+    "photo": "https://img2.zakaz.ua/src.1643640154.ad72436478c_2022-02-01_Tatiana/src.1643640154.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 94.9,
+    "unit": "900 мл",
+    "old_price": 127.2
+  },
+  {
+    "name": "Йогурт Молокія Білий Ожина на подушці з ягід 5,7% 140г",
+    "photo": "https://img3.zakaz.ua/30082022.1661861534.ad72436478c_2022-08-30_Tatyana_L/30082022.1661861534.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 20.7,
+    "unit": "140 г",
+    "old_price": 26.94
+  },
+  {
+    "name": "Кефір Молокія густий 1% 870г",
+    "photo": "https://img2.zakaz.ua/59b9f2e20d974c8b84547489ecc08444/1678206159-s150x150.jpg",
+    "price": 37.34,
+    "unit": "870 г",
+    "old_price": 44.93
+  },
+  {
+    "name": "Цукерки NESTLÉ® NESQUIK® вафельні 400г",
+    "photo": "https://img3.zakaz.ua/b9c5377dd89749f995e223323bd43a9b/1708074132-s150x150.jpg",
+    "price": 101.9,
+    "unit": "400 г",
+    "old_price": 166.31
+  },
+  {
+    "name": "Печиво Rioba Нічна зіронька пісочне 1кг",
+    "photo": "https://img2.zakaz.ua/3b9f2c602d684733819841c9f0bf0337/1695223166-s150x150.jpg",
+    "price": 139.9,
+    "unit": "1 кг",
+    "old_price": 189.9
+  },
+  {
+    "name": "Серветки вологі Smile Sterill Bio дезінфекційні 50шт",
+    "photo": "https://img2.zakaz.ua/src.1612471512.ad72436478c_2021-02-07_Aliona/src.1612471512.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 84.69,
+    "unit": "шт",
+    "old_price": 111.94
+  },
+  {
+    "name": "Манго Ready to Eat Glamur, шт",
+    "photo": "https://img2.zakaz.ua/241120.1606309053.ad72436478c_2020-11-25_Svetlana/241120.1606309053.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 207.9,
+    "unit": "шт",
+    "old_price": 259.9
+  },
+  {
+    "name": "Сметана Молокія безлактозна 15% 300г",
+    "photo": "https://img2.zakaz.ua/30082022.1661870641.ad72436478c_2022-08-30_Tatyana_L/30082022.1661870641.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 38.38,
+    "unit": "300 г",
+    "old_price": 51.27
+  },
+  {
+    "name": "Засіб Metro Professional для миття унітазу 750мл",
+    "photo": "https://img3.zakaz.ua/m.1666030317.ad72436478c_2022-10-17_Svetlana/m.1666030317.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 89.9,
+    "unit": "750 мл",
+    "old_price": 119.9
+  },
+  {
+    "name": "Мило рідке Safeguard Алое 390мл",
+    "photo": "https://img3.zakaz.ua/85e552bf7fb94481b53cfc3fa987b3b5/1692359206-s150x150.jpg",
+    "price": 109.07,
+    "unit": "390 мл",
+    "old_price": 157.83
+  },
+  {
+    "name": "Йогурт Ростишка Банан 1,5% 207г",
+    "photo": "https://img2.zakaz.ua/b083994e0d0b4684b31d6d421b10fae5/1706012908-s150x150.jpg",
+    "price": 18.62,
+    "unit": "207 г",
+    "old_price": 24.54
+  },
+  {
+    "name": "Креветки Metro Chef тигрові чорні з головою 20/30шт 800г",
+    "photo": "https://img3.zakaz.ua/5cc6906d8f754c1581dbca38597f0c82/1676983651-s150x150.jpg",
+    "price": 398.9,
+    "unit": "800 г",
+    "old_price": 498.9
+  },
+  {
+    "name": "Молоко Бурьонка ультрапастеризоване 3,2% 1л",
+    "photo": "https://img3.zakaz.ua/57b44c55ba96433aac00485816369b48/1685182825-s150x150.jpg",
+    "price": 39.42,
+    "unit": "1 л",
+    "old_price": 47.32
+  },
+  {
+    "name": "Ополіскувач для білизни Silan Aromatherapy Fascinating Frangipani 2,77л",
+    "photo": "https://img2.zakaz.ua/src.1667939958.ad72436478c_2022-11-08_Tatiana/src.1667939958.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 269.9,
+    "unit": "2.775 л",
+    "old_price": 421.09
+  },
+  {
+    "name": "Напій Alpro кокосовий з рисом 1л",
+    "photo": "https://img3.zakaz.ua/773610a22c4549428f6ee23868991809/1712033081-s150x150.jpg",
+    "price": 129.9,
+    "unit": "1 л",
+    "old_price": 145.5
+  },
+  {
+    "name": "Олія з виноградних кісточок Mantova 500мл",
+    "photo": "https://img3.zakaz.ua/c76ddeaf66d44e4d9ec65e8fbda599c8/1692359206-s150x150.jpg",
+    "price": 206.59,
+    "unit": "500 мл",
+    "old_price": 243.69
+  },
+  {
+    "name": "Макаронні вироби La Molisana №15 спагеті 500г",
+    "photo": "https://img3.zakaz.ua/f514a21850114e7db559aa33a216480b/1681124313-s150x150.jpg",
+    "price": 56.5,
+    "unit": "500 г",
+    "old_price": 74.09
+  },
+  {
+    "name": "Засіб дезінфікуючий Domestos Рожевий шторм універсальний для унітазу 1л",
+    "photo": "https://img3.zakaz.ua/2.1636920173.ad72436478c_2021-11-15_Tatyana_L/2.1636920173.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 99.9,
+    "unit": "1 л",
+    "old_price": 122.96
+  },
+  {
+    "name": "Соус Pripravka Карі з кокосовим молоком та кафір-лаймом  140г",
+    "photo": "https://img2.zakaz.ua/src.1654374439.ad72436478c_2022-06-06_Aliona/src.1654374439.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 29.57,
+    "unit": "140 г",
+    "old_price": 42.19
+  },
+  {
+    "name": "Печиво Rioba Американо здобне 800г",
+    "photo": "https://img3.zakaz.ua/1fde8da944604dc8896a6cf74a71c0b8/1695223166-s150x150.jpg",
+    "price": 109.9,
+    "unit": "800 г",
+    "old_price": 149.9
+  },
+  {
+    "name": "Рушники паперові Selpak тришарові 6шт",
+    "photo": "https://img3.zakaz.ua/34c2394ac7824912bb4bc5b8b850bec1/1700650847-s150x150.jpg",
+    "price": 197.5,
+    "unit": "шт",
+    "old_price": 248.46
+  },
+  {
+    "name": "Сосиски Бащинський Філейні 420г",
+    "photo": "https://img3.zakaz.ua/d119203bcf6640e5a33290cab335f023/1707384155-s150x150.jpg",
+    "price": 74.09,
+    "unit": "420 г",
+    "old_price": 108.01
+  },
+  {
+    "name": "Йогурт Ростишка Полуниця 1,5% 207г",
+    "photo": "https://img2.zakaz.ua/6c34585b0cda477ab373416315f2bb0d/1706012908-s150x150.jpg",
+    "price": 18.62,
+    "unit": "207 г",
+    "old_price": 24.54
+  },
+  {
+    "name": "Чипси кукурудзяні Doritos Nacho зі смаком сиру 90г",
+    "photo": "https://img2.zakaz.ua/f38cd566d6f24e9cab2369e7c1297120/1703004314-s150x150.jpg",
+    "price": 39.11,
+    "unit": "90 г",
+    "old_price": 52.89
+  },
+  {
+    "name": "Рушники паперові Zewa Premium Jumbo тришарові",
+    "photo": "https://img3.zakaz.ua/c8ee9daa48c14173a098f7890ce4ada1/1675323123-s150x150.jpg",
+    "price": 150.7,
+    "unit": "шт",
+    "old_price": 233.9
+  },
+  {
+    "name": "Тістечка БКК заварні з кремом 360г",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.87dd3a163144a073d3e5de791ed841f1.150x150.jpeg",
+    "price": 134.89,
+    "unit": "360 г",
+    "old_price": 160.81
+  },
+  {
+    "name": "Сир Комо Фісташковий нарізаний 50% 160г",
+    "photo": "https://img3.zakaz.ua/src.1672094007.ad72436478c_2022-12-27_Aliona/src.1672094007.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 75.82,
+    "unit": "160 г",
+    "old_price": 105.98
+  },
+  {
+    "name": "Сніданок сухий AXA Harmony Пластівці мультизернові збагачені мінералами 500г",
+    "photo": "https://img2.zakaz.ua/01.1643099482.ad72436478c_2022-01-25_Victoria/01.1643099482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 79.39,
+    "unit": "500 г",
+    "old_price": 120.73
+  },
+  {
+    "name": "Зубна нитка Oral-B Essential floss Waxed м'ятна 50м",
+    "photo": "https://img3.zakaz.ua/d9fc7da1dcd74208923d93d5f5f4303c/1710170760-s150x150.jpg",
+    "price": 81.51,
+    "unit": "шт",
+    "old_price": 117.55
+  },
+  {
+    "name": "Курага Bakalland 100г",
+    "photo": "https://img3.zakaz.ua/97d0b50d009240d49e1e59982e56f113/1699441475-s150x150.jpg",
+    "price": 74.9,
+    "unit": "100 г",
+    "old_price": 107.89
+  },
+  {
+    "name": "Засіб універсальний Domestos Лимонна свіжість 1л",
+    "photo": "https://img2.zakaz.ua/2.1636922485.ad72436478c_2021-11-15_Tatyana_L/2.1636922485.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 99.9,
+    "unit": "1 л",
+    "old_price": 122.96
+  },
+  {
+    "name": "Філе стегна курчати-бройлера Епікур охолоджене ~4кг",
+    "photo": "https://img3.zakaz.ua/a561c4a5bf904abb8ec1065299af8cb4/1711388469-s150x150.jpg",
+    "price": 166.3,
+    "unit": "за 1 кг",
+    "old_price": 197.5
+  },
+  {
+    "name": "Печиво Rioba Шалене листкове вишня 1кг",
+    "photo": "https://img3.zakaz.ua/e0cd4240bee7429eac0d638b3693cd0c/1695223166-s150x150.jpg",
+    "price": 149.9,
+    "unit": "1 кг",
+    "old_price": 199.9
+  },
+  {
+    "name": "Ополіскувач для білизни Silan Fresh Sky 2860мл",
+    "photo": "https://img2.zakaz.ua/src.1667939450.ad72436478c_2022-11-08_Tatiana/src.1667939450.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 269.9,
+    "unit": "2.85 л",
+    "old_price": 431.89
+  },
+  {
+    "name": "Кеш'ю Bakalland 75г",
+    "photo": "https://img2.zakaz.ua/e5532290749e43f6b491e966fef4c9cb/1705342424-s150x150.jpg",
+    "price": 83.9,
+    "unit": "75 г",
+    "old_price": 121.93
+  },
+  {
+    "name": "Чорнослив Bakalland без кісток 200г",
+    "photo": "https://img2.zakaz.ua/aec1f950bc58476f93c98e2ec275c9cc/1699441475-s150x150.jpg",
+    "price": 104.9,
+    "unit": "200 г",
+    "old_price": 151.09
+  },
+  {
+    "name": "Сметана Молокія 20% 370г",
+    "photo": "https://img2.zakaz.ua/30082022.1661860112.ad72436478c_2022-08-30_Tatyana_L/30082022.1661860112.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 45.66,
+    "unit": "370 г",
+    "old_price": 51.38
+  },
+  {
+    "name": "Вафельні трубочки Delicia зі смаком пряженого молока 1,3кг",
+    "photo": "https://img3.zakaz.ua/db0f03a3424849f8b10d750ae54e632f/1677697696-s150x150.jpg",
+    "price": 250.05,
+    "unit": "1.3 кг",
+    "old_price": 333.79
+  },
+  {
+    "name": "Засіб для миття посуду Fairy Extra+ Бузок 650мл",
+    "photo": "https://img3.zakaz.ua/src.1663099477.ad72436478c_2022-09-13_Tatiana/src.1663099477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 99.25,
+    "unit": "650 мл",
+    "old_price": 148.93
+  },
+  {
+    "name": "Форель Norven слабосолена філе-шматок 180г",
+    "photo": "https://img3.zakaz.ua/src.1644508376.ad72436478c_2022-02-10_Tatiana/src.1644508376.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 226.69,
+    "unit": "180 г",
+    "old_price": 267.73
+  },
+  {
+    "name": "Засіб універсальний Cif Актив Лимон 750мл",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.cc7a7f766ca6b032b52104d4d65c4fae.150x150.jpeg",
+    "price": 87.9,
+    "unit": "750 мл",
+    "old_price": 116.6
+  },
+  {
+    "name": "Сік Galicia Ягідний мікс гомогенізований стерилізований 1л",
+    "photo": "https://img2.zakaz.ua/1bf62d0331e849b2a4d52eca2f57739f/1692433043-s150x150.jpg",
+    "price": 52.89,
+    "unit": "1 л",
+    "old_price": 63.49
+  },
+  {
+    "name": "Сьомга Norven філе-шматок слабосолена 180г",
+    "photo": "https://img3.zakaz.ua/src.1644508583.ad72436478c_2022-02-10_Tatiana/src.1644508583.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 226.69,
+    "unit": "180 г",
+    "old_price": 267.73
+  },
+  {
+    "name": "Макаронні вироби La Molisana №28 Fusilli 500г",
+    "photo": "https://img2.zakaz.ua/eefc25f7886b4d1d8f346ad2f99ef005/1705342424-s150x150.jpg",
+    "price": 56.5,
+    "unit": "500 г",
+    "old_price": 74.09
+  },
+  {
+    "name": "Сир кисломолочний Молокія 9% 200г",
+    "photo": "https://img2.zakaz.ua/30082022.1661858556.ad72436478c_2022-08-30_Tatyana_L/30082022.1661858556.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 32.14,
+    "unit": "200 г",
+    "old_price": 42.02
+  },
+  {
+    "name": "Прокладки гігієнічні Always Ultra Light 1 20шт",
+    "photo": "https://img2.zakaz.ua/d4877a4aaa4e4a79986280892322c032/1692281897-s150x150.jpg",
+    "price": 90.38,
+    "unit": "шт",
+    "old_price": 117.42
+  },
+  {
+    "name": "Зубна паста Lacalut White 75мл",
+    "photo": "https://img3.zakaz.ua/f7aae02bca254e8f865743ab693d8d63/1675877383-s150x150.jpg",
+    "price": 79.9,
+    "unit": "75 мл",
+    "old_price": 106.0
+  },
+  {
+    "name": "Кава Lavazza Qualitа Oro мелена 250г",
+    "photo": "https://img3.zakaz.ua/2.1618420447.ad72436478c_2021-04-14_Tatyana_L/2.1618420447.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 226.69,
+    "unit": "250 г",
+    "old_price": 274.21
+  },
+  {
+    "name": "Капсули для прання Persil Power Caps Universal 35шт",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.fb239c864383cf17a9ae4f75199ee622.150x150.jpeg",
+    "price": 459.9,
+    "unit": "шт",
+    "old_price": 945.0
+  },
+  {
+    "name": "Корейка яловича Skott Smeat Striploin охолоджена ~250г",
+    "photo": "https://img3.zakaz.ua/a62797922e104a0481a4023bb7aaeaef/1693919679-s150x150.jpg",
+    "price": 680.29,
+    "unit": "за 1 кг",
+    "old_price": 863.89
+  },
+  {
+    "name": "Чипси Люкс картопляні зі смаком сиру 133г",
+    "photo": "https://img3.zakaz.ua/mykolaiv.1627395894.ad72436478c_2021-07-27_Svetlana/mykolaiv.1627395894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.41,
+    "unit": "133 г",
+    "old_price": 62.43
+  },
+  {
+    "name": "Спельта Сто пудів Антична пшениця 500г",
+    "photo": "https://img3.zakaz.ua/9a0778c0782f4e9698d763716c5cff97/1705342424-s150x150.jpg",
+    "price": 29.57,
+    "unit": "500 г",
+    "old_price": 36.99
+  },
+  {
+    "name": "Напій Alpro мигдальний 1л",
+    "photo": "https://img3.zakaz.ua/efb8cc02ba794e6e81d4d8f876912972/1712033081-s150x150.jpg",
+    "price": 129.9,
+    "unit": "1 л",
+    "old_price": 166.3
+  },
+  {
+    "name": "Печиво Delicia Інь-Янь здобне 1,2кг",
+    "photo": "https://img2.zakaz.ua/068622c00634486bafab317bffd2a2b2/1677697696-s150x150.jpg",
+    "price": 177.97,
+    "unit": "1.2 кг",
+    "old_price": 238.39
+  },
+  {
+    "name": "Соус Pripravka Кисло-солодкий з імбиром та апельсином 140г",
+    "photo": "https://img2.zakaz.ua/src.1654373913.ad72436478c_2022-06-06_Aliona/src.1654373913.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 29.57,
+    "unit": "140 г",
+    "old_price": 42.19
+  },
+  {
+    "name": "Йогурт Ростишка Персик-абрикос 1,5% 207г",
+    "photo": "https://img2.zakaz.ua/2e4ae20b08f849c79312412810fd61e4/1706012908-s150x150.jpg",
+    "price": 18.62,
+    "unit": "207 г",
+    "old_price": 24.54
+  },
+  {
+    "name": "Йогурт Ростишка Полуниця 2% 115г",
+    "photo": "https://img3.zakaz.ua/671ccb1a6b2746d48836d6c213bd6cf9/1706012908-s150x150.jpg",
+    "price": 9.26,
+    "unit": "115 г",
+    "old_price": 13.1
+  },
+  {
+    "name": "Диски чистоти Duck Морська свіжість 6шт",
+    "photo": "https://img3.zakaz.ua/src.1643639354.ad72436478c_2022-02-01_Tatiana/src.1643639354.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 100.59,
+    "unit": "38 г",
+    "old_price": 133.56
+  },
+  {
+    "name": "Цукерки Mon Cheri Вишня в лікері 157г",
+    "photo": "https://img3.zakaz.ua/bed1885f32a94618a3eac4d9e8abfcd0/1708074132-s150x150.jpg",
+    "price": 180.09,
+    "unit": "157 г",
+    "old_price": 243.69
+  },
+  {
+    "name": "Засіб для миття посуду Frosch Зелений лимон 1л",
+    "photo": "https://img3.zakaz.ua/d1d935092a8e43919982ee81fda5a567/1696998240-s150x150.jpg",
+    "price": 104.9,
+    "unit": "1 л",
+    "old_price": 138.13
+  },
+  {
+    "name": "Вино ігристе Latinium біле напівсолодке 8,5% 0,75л",
+    "photo": "https://img2.zakaz.ua/src.1602237932.ad72436478c_2020-10-09_Tamara/src.1602237932.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 179.9,
+    "unit": "750 мл",
+    "old_price": 231.9
+  },
+  {
+    "name": "Засіб мийний Mr.Muscle Після дощу для скляний поверхонь 500мл",
+    "photo": "https://img3.zakaz.ua/src.1643638354.ad72436478c_2022-02-01_Tatiana/src.1643638354.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 79.9,
+    "unit": "500 мл",
+    "old_price": 104.94
+  },
+  {
+    "name": "Печиво Rioba Гармонія пісне здобне зі смаком абрикосу 900г",
+    "photo": "https://img2.zakaz.ua/m.1667228266.ad72436478c_2022-10-31_Svetlana/m.1667228266.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 119.9,
+    "unit": "900 г",
+    "old_price": 159.9
+  },
+  {
+    "name": "Мило рідке Safeguard Classic Pure White 390мл",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.5c28b4d4a9c90b7343898d97d29a74ac.150x150.jpeg",
+    "price": 109.07,
+    "unit": "390 мл",
+    "old_price": 157.83
+  },
+  {
+    "name": "Прокладки щоденні Discreet Deo Waterlily мультиформ 60шт",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.6cca85640ba2d189c9a2cb4713b1cd58.150x150.jpeg",
+    "price": 87.88,
+    "unit": "шт",
+    "old_price": 120.54
+  },
+  {
+    "name": "Макаронні вироби La Molisana №66 метелики 500г",
+    "photo": "https://img3.zakaz.ua/c14beeaf14504cfc9121dbfc5a8b24d7/1675344072-s150x150.jpg",
+    "price": 56.5,
+    "unit": "500 г",
+    "old_price": 74.09
+  },
+  {
+    "name": "Ковбаса Алан Сервелат варено-копчена в/г 350г",
+    "photo": "https://img2.zakaz.ua/auchan.1665072070.ad72436478c_2022-12-06_Tetiana/auchan.1665072070.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 153.59,
+    "unit": "350 г",
+    "old_price": 205.53
+  },
+  {
+    "name": "Чипси Люкс картопляні зі смаком паприки 133г",
+    "photo": "https://img2.zakaz.ua/src.1674227290.ad72436478c_2023-01-23_Tetiana/src.1674227290.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.41,
+    "unit": "133 г",
+    "old_price": 62.43
+  },
+  {
+    "name": "Засіб дезинфікуючий Domestos Свіжість лісу універсальний 1л",
+    "photo": "https://img3.zakaz.ua/06.1656010782.ad72436478c_2022-06-24_Victoria/06.1656010782.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 116.49,
+    "unit": "1 л",
+    "old_price": 144.16
+  },
+  {
+    "name": "Засіб для миття посуду Fairy Sensitive Ромашка та вітамін Е 450мл",
+    "photo": "https://img2.zakaz.ua/53e07e43a3084e6889bd896cccc152fc/1701194884-s150x150.jpg",
+    "price": 57.13,
+    "unit": "450 мл",
+    "old_price": 86.29
+  },
+  {
+    "name": "Сухарики Finn Crisp житні 400г",
+    "photo": "https://img3.zakaz.ua/01.1643108537.ad72436478c_2022-01-25_Victoria/01.1643108537.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 144.61,
+    "unit": "400 г",
+    "old_price": 170.53
+  },
+  {
+    "name": "Хамон Galar нарізка 500г",
+    "photo": "https://img2.zakaz.ua/done.1603812586.ad72436478c_2020-10-27_Svetlana/done.1603812586.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 431.89,
+    "unit": "500 г",
+    "old_price": 636.12
+  },
+  {
+    "name": "Засіб Metro Professional для знежирення кухонних поверхонь 750мл",
+    "photo": "https://img2.zakaz.ua/m.1666029910.ad72436478c_2022-10-17_Svetlana/m.1666029910.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 114.9,
+    "unit": "750 мл",
+    "old_price": 149.9
+  },
+  {
+    "name": "Макаронні вироби La Molisana №28 Fusilli 500г",
+    "photo": "https://img3.zakaz.ua/eefc25f7886b4d1d8f346ad2f99ef005/1705342424-s150x150.jpg",
+    "price": 56.5,
+    "unit": "500 г",
+    "old_price": 74.09
+  },
+  {
+    "name": "Сир кисломолочний Молокія 9% 200г",
+    "photo": "https://img3.zakaz.ua/30082022.1661858556.ad72436478c_2022-08-30_Tatyana_L/30082022.1661858556.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 32.14,
+    "unit": "200 г",
+    "old_price": 42.02
+  },
+  {
+    "name": "Прокладки гігієнічні Always Ultra Light 1 20шт",
+    "photo": "https://img3.zakaz.ua/d4877a4aaa4e4a79986280892322c032/1692281897-s150x150.jpg",
+    "price": 90.38,
+    "unit": "шт",
+    "old_price": 117.42
+  },
+  {
+    "name": "Зубна паста Lacalut White 75мл",
+    "photo": "https://img3.zakaz.ua/f7aae02bca254e8f865743ab693d8d63/1675877383-s150x150.jpg",
+    "price": 79.9,
+    "unit": "75 мл",
+    "old_price": 106.0
+  },
+  {
+    "name": "Кава Lavazza Qualitа Oro мелена 250г",
+    "photo": "https://img3.zakaz.ua/2.1618420447.ad72436478c_2021-04-14_Tatyana_L/2.1618420447.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 226.69,
+    "unit": "250 г",
+    "old_price": 274.21
+  },
+  {
+    "name": "Капсули для прання Persil Power Caps Universal 35шт",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.fb239c864383cf17a9ae4f75199ee622.150x150.jpeg",
+    "price": 459.9,
+    "unit": "шт",
+    "old_price": 945.0
+  },
+  {
+    "name": "Корейка яловича Skott Smeat Striploin охолоджена ~250г",
+    "photo": "https://img3.zakaz.ua/a62797922e104a0481a4023bb7aaeaef/1693919679-s150x150.jpg",
+    "price": 680.29,
+    "unit": "за 1 кг",
+    "old_price": 863.89
+  },
+  {
+    "name": "Чипси Люкс картопляні зі смаком сиру 133г",
+    "photo": "https://img2.zakaz.ua/mykolaiv.1627395894.ad72436478c_2021-07-27_Svetlana/mykolaiv.1627395894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.41,
+    "unit": "133 г",
+    "old_price": 62.43
+  },
+  {
+    "name": "Спельта Сто пудів Антична пшениця 500г",
+    "photo": "https://img2.zakaz.ua/9a0778c0782f4e9698d763716c5cff97/1705342424-s150x150.jpg",
+    "price": 29.57,
+    "unit": "500 г",
+    "old_price": 36.99
+  },
+  {
+    "name": "Напій Alpro мигдальний 1л",
+    "photo": "https://img2.zakaz.ua/efb8cc02ba794e6e81d4d8f876912972/1712033081-s150x150.jpg",
+    "price": 129.9,
+    "unit": "1 л",
+    "old_price": 166.3
+  },
+  {
+    "name": "Печиво Delicia Інь-Янь здобне 1,2кг",
+    "photo": "https://img2.zakaz.ua/068622c00634486bafab317bffd2a2b2/1677697696-s150x150.jpg",
+    "price": 177.97,
+    "unit": "1.2 кг",
+    "old_price": 238.39
+  },
+  {
+    "name": "Соус Pripravka Кисло-солодкий з імбиром та апельсином 140г",
+    "photo": "https://img3.zakaz.ua/src.1654373913.ad72436478c_2022-06-06_Aliona/src.1654373913.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 29.57,
+    "unit": "140 г",
+    "old_price": 42.19
+  },
+  {
+    "name": "Йогурт Ростишка Персик-абрикос 1,5% 207г",
+    "photo": "https://img3.zakaz.ua/2e4ae20b08f849c79312412810fd61e4/1706012908-s150x150.jpg",
+    "price": 18.62,
+    "unit": "207 г",
+    "old_price": 24.54
+  },
+  {
+    "name": "Йогурт Ростишка Полуниця 2% 115г",
+    "photo": "https://img2.zakaz.ua/671ccb1a6b2746d48836d6c213bd6cf9/1706012908-s150x150.jpg",
+    "price": 9.26,
+    "unit": "115 г",
+    "old_price": 13.1
+  },
+  {
+    "name": "Диски чистоти Duck Морська свіжість 6шт",
+    "photo": "https://img3.zakaz.ua/src.1643639354.ad72436478c_2022-02-01_Tatiana/src.1643639354.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 100.59,
+    "unit": "38 г",
+    "old_price": 133.56
+  },
+  {
+    "name": "Цукерки Mon Cheri Вишня в лікері 157г",
+    "photo": "https://img3.zakaz.ua/bed1885f32a94618a3eac4d9e8abfcd0/1708074132-s150x150.jpg",
+    "price": 180.09,
+    "unit": "157 г",
+    "old_price": 243.69
+  },
+  {
+    "name": "Засіб для миття посуду Frosch Зелений лимон 1л",
+    "photo": "https://img3.zakaz.ua/d1d935092a8e43919982ee81fda5a567/1696998240-s150x150.jpg",
+    "price": 104.9,
+    "unit": "1 л",
+    "old_price": 138.13
+  },
+  {
+    "name": "Вино ігристе Latinium біле напівсолодке 8,5% 0,75л",
+    "photo": "https://img2.zakaz.ua/src.1602237932.ad72436478c_2020-10-09_Tamara/src.1602237932.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 179.9,
+    "unit": "750 мл",
+    "old_price": 231.9
+  },
+  {
+    "name": "Засіб мийний Mr.Muscle Після дощу для скляний поверхонь 500мл",
+    "photo": "https://img3.zakaz.ua/src.1643638354.ad72436478c_2022-02-01_Tatiana/src.1643638354.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 79.9,
+    "unit": "500 мл",
+    "old_price": 104.94
+  },
+  {
+    "name": "Печиво Rioba Гармонія пісне здобне зі смаком абрикосу 900г",
+    "photo": "https://img2.zakaz.ua/m.1667228266.ad72436478c_2022-10-31_Svetlana/m.1667228266.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 119.9,
+    "unit": "900 г",
+    "old_price": 159.9
+  },
+  {
+    "name": "Мило рідке Safeguard Classic Pure White 390мл",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.5c28b4d4a9c90b7343898d97d29a74ac.150x150.jpeg",
+    "price": 109.07,
+    "unit": "390 мл",
+    "old_price": 157.83
+  },
+  {
+    "name": "Прокладки щоденні Discreet Deo Waterlily мультиформ 60шт",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.6cca85640ba2d189c9a2cb4713b1cd58.150x150.jpeg",
+    "price": 87.88,
+    "unit": "шт",
+    "old_price": 120.54
+  },
+  {
+    "name": "Макаронні вироби La Molisana №66 метелики 500г",
+    "photo": "https://img3.zakaz.ua/c14beeaf14504cfc9121dbfc5a8b24d7/1675344072-s150x150.jpg",
+    "price": 56.5,
+    "unit": "500 г",
+    "old_price": 74.09
+  },
+  {
+    "name": "Ковбаса Алан Сервелат варено-копчена в/г 350г",
+    "photo": "https://img3.zakaz.ua/auchan.1665072070.ad72436478c_2022-12-06_Tetiana/auchan.1665072070.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 153.59,
+    "unit": "350 г",
+    "old_price": 205.53
+  },
+  {
+    "name": "Чипси Люкс картопляні зі смаком паприки 133г",
+    "photo": "https://img2.zakaz.ua/src.1674227290.ad72436478c_2023-01-23_Tetiana/src.1674227290.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.41,
+    "unit": "133 г",
+    "old_price": 62.43
+  },
+  {
+    "name": "Засіб дезинфікуючий Domestos Свіжість лісу універсальний 1л",
+    "photo": "https://img2.zakaz.ua/06.1656010782.ad72436478c_2022-06-24_Victoria/06.1656010782.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 116.49,
+    "unit": "1 л",
+    "old_price": 144.16
+  },
+  {
+    "name": "Засіб для миття посуду Fairy Sensitive Ромашка та вітамін Е 450мл",
+    "photo": "https://img2.zakaz.ua/53e07e43a3084e6889bd896cccc152fc/1701194884-s150x150.jpg",
+    "price": 57.13,
+    "unit": "450 мл",
+    "old_price": 86.29
+  },
+  {
+    "name": "Сухарики Finn Crisp житні 400г",
+    "photo": "https://img3.zakaz.ua/01.1643108537.ad72436478c_2022-01-25_Victoria/01.1643108537.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 144.61,
+    "unit": "400 г",
+    "old_price": 170.53
+  },
+  {
+    "name": "Хамон Galar нарізка 500г",
+    "photo": "https://img2.zakaz.ua/done.1603812586.ad72436478c_2020-10-27_Svetlana/done.1603812586.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 431.89,
+    "unit": "500 г",
+    "old_price": 636.12
+  },
+  {
+    "name": "Засіб Metro Professional для знежирення кухонних поверхонь 750мл",
+    "photo": "https://img2.zakaz.ua/m.1666029910.ad72436478c_2022-10-17_Svetlana/m.1666029910.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 114.9,
+    "unit": "750 мл",
+    "old_price": 149.9
+  },
+  {
+    "name": "Засіб мийний Mr.Muscle Після дощу для скляний поверхонь 500мл",
+    "photo": "https://img3.zakaz.ua/src.1643638454.ad72436478c_2022-02-01_Tatiana/src.1643638454.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 62.9,
+    "unit": "500 мл",
+    "old_price": 87.98
+  },
+  {
+    "name": "Гель для прання Super Wash Universal 4л",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.e64e2e09b5f3189b8c766ce18dc41735.150x150.jpeg",
+    "price": 151.09,
+    "unit": "4 л",
+    "old_price": 253.8
+  },
+  {
+    "name": "Плямовивідник Vanish 450мл",
+    "photo": "https://img2.zakaz.ua/src.1673541687.ad72436478c_2023-01-12_TetianaM/src.1673541687.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 89.9,
+    "unit": "450 мл",
+    "old_price": 113.29
+  },
+  {
+    "name": "Туалетний папір Zewa Deluxe Ромашка білий тришаровий 16шт",
+    "photo": "https://img2.zakaz.ua/828783ff9d2146c2b98119a6549df365/1675320629-s150x150.jpg",
+    "price": 279.9,
+    "unit": "шт",
+    "old_price": 483.5
+  },
+  {
+    "name": "Прокладки щоденні Discreet Skin Love 54шт",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.c40fbca386fd6ee9d0ab1b15c33fce10.150x150.jpeg",
+    "price": 102.86,
+    "unit": "шт",
+    "old_price": 141.34
+  },
+  {
+    "name": "Сосиски М'ясна гільдія з сиром Mozzarella вищий сорт ~1кг",
+    "photo": "https://img3.zakaz.ua/m.1665670127.ad72436478c_2022-10-13_Svetlana/m.1665670127.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 190.69,
+    "unit": "за 1 кг",
+    "old_price": 328.49
+  },
+  {
+    "name": "Цукерки СВІТОЧ® Зоряне Сяйво 800г",
+    "photo": "https://img3.zakaz.ua/8bb32373128645dca9d4a565a9fb3f88/1708074132-s150x150.jpg",
+    "price": 199.9,
+    "unit": "800 г",
+    "old_price": 296.69
+  },
+  {
+    "name": "Соус томатний Mutti пармезан 400г",
+    "photo": "https://img3.zakaz.ua/8a6fe73cfdd04abbb57229878f474377/1675690132-s150x150.jpg",
+    "price": 110.13,
+    "unit": "400 г",
+    "old_price": 137.69
+  },
+  {
+    "name": "Чипси Doritos кукурудзяні гострий перець 90г",
+    "photo": "https://img3.zakaz.ua/f82780c522ae42fd9e2a08f5062c2c1e/1703004314-s150x150.jpg",
+    "price": 39.11,
+    "unit": "90 г",
+    "old_price": 52.89
+  },
+  {
+    "name": "Ополіскувач для тканин Fine Life Квітковий 4л",
+    "photo": "https://img3.zakaz.ua/done.1596016635.ad72436478c_2020-07-29_Svetlana/done.1596016635.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 99.9,
+    "unit": "4 л",
+    "old_price": 159.9
+  },
+  {
+    "name": "Ковбаса Глобино Салямі Мисливська варено-копчена вищий ґатунок 460г",
+    "photo": "https://img2.zakaz.ua/src.1644935467.ad72436478c_2022-02-16_Tatiana/src.1644935467.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 89.99,
+    "unit": "460 г",
+    "old_price": 115.43
+  },
+  {
+    "name": "Йогурт Молокія білий + попкорн у карамелі з какао 2,5% 162г",
+    "photo": "https://img2.zakaz.ua/30082022.1661869569.ad72436478c_2022-08-30_Tatyana_L/30082022.1661869569.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 22.78,
+    "unit": "162 г",
+    "old_price": 30.58
+  },
+  {
+    "name": "Засіб чистячий Duck для унітазу 5в1 900мл",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.9b1f5404d010e9a5c720b0c0ecd24a2a.150x150.jpeg",
+    "price": 94.9,
+    "unit": "900 мл",
+    "old_price": 127.2
+  },
+  {
+    "name": "Олія авокадо Mantova рафінована 500мл",
+    "photo": "https://img2.zakaz.ua/7f56f575dba6486593dc9e7bf9add211/1677148555-s150x150.jpg",
+    "price": 317.89,
+    "unit": "500 мл",
+    "old_price": 423.89
+  },
+  {
+    "name": "Цукерки LION® вафельні 500г",
+    "photo": "https://img2.zakaz.ua/a012925137fa4fda844d6f2efd069db6/1708074132-s150x150.jpg",
+    "price": 136.9,
+    "unit": "500 г",
+    "old_price": 243.69
+  },
+  {
+    "name": "Котлети для бургера яловичі Skott Smeat Burger Patties заморожений 720г",
+    "photo": "https://img2.zakaz.ua/3f175953ea144f5e8683f44767b61b76/1693843878-s150x150.jpg",
+    "price": 237.49,
+    "unit": "720 г",
+    "old_price": 307.69
+  },
+  {
+    "name": "Суміш сухофруктів та горіхів Bakalland 100г",
+    "photo": "https://img3.zakaz.ua/b6800270dde54c04bb07f029b6e50710/1699441475-s150x150.jpg",
+    "price": 74.9,
+    "unit": "100 г",
+    "old_price": 107.89
+  },
+  {
+    "name": "Макаронні вироби La Molisana №25 мушлі 500г",
+    "photo": "https://img3.zakaz.ua/c1598006a4964cec83337cfba37bc8df/1705342424-s150x150.jpg",
+    "price": 56.5,
+    "unit": "500 г",
+    "old_price": 74.09
+  },
+  {
+    "name": "Грудинка Бащинський Українська охолоджена ~0,4кг",
+    "photo": "https://img3.zakaz.ua/src.1654190661.ad72436478c_2022-06-03_Tatiana/src.1654190661.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 367.09,
+    "unit": "за 1 кг",
+    "old_price": 515.05
+  },
+  {
+    "name": "Чипси Люкс картопляні зі смаком сметани та цибулі 133г",
+    "photo": "https://img3.zakaz.ua/src.1674227376.ad72436478c_2023-01-23_Tetiana/src.1674227376.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.41,
+    "unit": "133 г",
+    "old_price": 62.43
+  },
+  {
+    "name": "Сметана Молокія 30% 370г",
+    "photo": "https://img3.zakaz.ua/30082022.1661860049.ad72436478c_2022-08-30_Tatyana_L/30082022.1661860049.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 55.02,
+    "unit": "370 г",
+    "old_price": 63.96
+  },
+  {
+    "name": "Корейка Ятрань по-кіровоградськи копчено-варена вищий гатунок 600г",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.bbeb15b8dfc68ff878ce0ee2cf536308.150x150.jpeg",
+    "price": 399.49,
+    "unit": "за 1 кг",
+    "old_price": 531.25
+  },
+  {
+    "name": "Засіб чистячий Cillit Bang для видалення нальоту та іржі 750мл",
+    "photo": "https://img2.zakaz.ua/src.1665593361.ad72436478c_2022-10-12_Tatiana/src.1665593361.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 114.9,
+    "unit": "750 мл",
+    "old_price": 199.28
+  },
+  {
+    "name": "Засіб для інтимної гігієни Lactacyd з дозатором 200мл",
+    "photo": "https://img3.zakaz.ua/src.1598880149.ad72436478c_2020-08-31_Tamara/src.1598880149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 151.09,
+    "unit": "200 мл",
+    "old_price": 196.56
+  },
+  {
+    "name": "Засіб Metro Professional для миття ванної кімнати 750мл",
+    "photo": "https://img3.zakaz.ua/m.1666030520.ad72436478c_2022-10-17_Svetlana/m.1666030520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 94.9,
+    "unit": "750 мл",
+    "old_price": 119.9
+  },
+  {
+    "name": "Прокладки гігієнічні Naturella Ultra Normal 10шт",
+    "photo": "https://img3.zakaz.ua/src.1631885438.ad72436478c_2021-09-17_Tatiana/src.1631885438.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.2,
+    "unit": "36 г",
+    "old_price": 59.18
+  },
+  {
+    "name": "Станок Gillette Venus 3 Sensitive Blue 3шт",
+    "photo": "https://img3.zakaz.ua/src.1675191480.ad72436478c_2023-01-31_Tetiana/src.1675191480.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 132.73,
+    "unit": "шт",
+    "old_price": 182.41
+  },
+  {
+    "name": "Зубна паста Blend-a-Med Complete Protect Expert Здорова білизна 75мл",
+    "photo": "https://img2.zakaz.ua/e186feca471c42e4afcbaa8ea121500d/1710170760-s150x150.jpg",
+    "price": 78.33,
+    "unit": "75 мл",
+    "old_price": 121.79
+  },
+  {
+    "name": "Ковбаса Алан Сервелат сирокопчена 375г",
+    "photo": "https://img3.zakaz.ua/src.1671698247.ad72436478c_2022-12-22_TetianaM/src.1671698247.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 195.99,
+    "unit": "375 г",
+    "old_price": 296.69
+  },
+  {
+    "name": "Йогурт Молокія білий 1,6% 300г",
+    "photo": "https://img3.zakaz.ua/30082022.1661869070.ad72436478c_2022-08-30_Tatyana_L/30082022.1661869070.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 25.9,
+    "unit": "300 г",
+    "old_price": 34.01
+  },
+  {
+    "name": "Засіб мийний Mr.Muscle Після дощу для скляний поверхонь 500мл",
+    "photo": "https://img2.zakaz.ua/src.1643638454.ad72436478c_2022-02-01_Tatiana/src.1643638454.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 62.9,
+    "unit": "500 мл",
+    "old_price": 87.98
+  },
+  {
+    "name": "Гель для прання Super Wash Universal 4л",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.e64e2e09b5f3189b8c766ce18dc41735.150x150.jpeg",
+    "price": 151.09,
+    "unit": "4 л",
+    "old_price": 253.8
+  },
+  {
+    "name": "Плямовивідник Vanish 450мл",
+    "photo": "https://img3.zakaz.ua/src.1673541687.ad72436478c_2023-01-12_TetianaM/src.1673541687.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 89.9,
+    "unit": "450 мл",
+    "old_price": 113.29
+  },
+  {
+    "name": "Туалетний папір Zewa Deluxe Ромашка білий тришаровий 16шт",
+    "photo": "https://img2.zakaz.ua/828783ff9d2146c2b98119a6549df365/1675320629-s150x150.jpg",
+    "price": 279.9,
+    "unit": "шт",
+    "old_price": 483.5
+  },
+  {
+    "name": "Прокладки щоденні Discreet Skin Love 54шт",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.c40fbca386fd6ee9d0ab1b15c33fce10.150x150.jpeg",
+    "price": 102.86,
+    "unit": "шт",
+    "old_price": 141.34
+  },
+  {
+    "name": "Сосиски М'ясна гільдія з сиром Mozzarella вищий сорт ~1кг",
+    "photo": "https://img2.zakaz.ua/m.1665670127.ad72436478c_2022-10-13_Svetlana/m.1665670127.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 190.69,
+    "unit": "за 1 кг",
+    "old_price": 328.49
+  },
+  {
+    "name": "Цукерки СВІТОЧ® Зоряне Сяйво 800г",
+    "photo": "https://img3.zakaz.ua/8bb32373128645dca9d4a565a9fb3f88/1708074132-s150x150.jpg",
+    "price": 199.9,
+    "unit": "800 г",
+    "old_price": 296.69
+  },
+  {
+    "name": "Соус томатний Mutti пармезан 400г",
+    "photo": "https://img2.zakaz.ua/8a6fe73cfdd04abbb57229878f474377/1675690132-s150x150.jpg",
+    "price": 110.13,
+    "unit": "400 г",
+    "old_price": 137.69
+  },
+  {
+    "name": "Чипси Doritos кукурудзяні гострий перець 90г",
+    "photo": "https://img2.zakaz.ua/f82780c522ae42fd9e2a08f5062c2c1e/1703004314-s150x150.jpg",
+    "price": 39.11,
+    "unit": "90 г",
+    "old_price": 52.89
+  },
+  {
+    "name": "Ополіскувач для тканин Fine Life Квітковий 4л",
+    "photo": "https://img3.zakaz.ua/done.1596016635.ad72436478c_2020-07-29_Svetlana/done.1596016635.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 99.9,
+    "unit": "4 л",
+    "old_price": 159.9
+  },
+  {
+    "name": "Ковбаса Глобино Салямі Мисливська варено-копчена вищий ґатунок 460г",
+    "photo": "https://img3.zakaz.ua/src.1644935467.ad72436478c_2022-02-16_Tatiana/src.1644935467.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 89.99,
+    "unit": "460 г",
+    "old_price": 115.43
+  },
+  {
+    "name": "Йогурт Молокія білий + попкорн у карамелі з какао 2,5% 162г",
+    "photo": "https://img3.zakaz.ua/30082022.1661869569.ad72436478c_2022-08-30_Tatyana_L/30082022.1661869569.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 22.78,
+    "unit": "162 г",
+    "old_price": 30.58
+  },
+  {
+    "name": "Засіб чистячий Duck для унітазу 5в1 900мл",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.9b1f5404d010e9a5c720b0c0ecd24a2a.150x150.jpeg",
+    "price": 94.9,
+    "unit": "900 мл",
+    "old_price": 127.2
+  },
+  {
+    "name": "Олія авокадо Mantova рафінована 500мл",
+    "photo": "https://img3.zakaz.ua/7f56f575dba6486593dc9e7bf9add211/1677148555-s150x150.jpg",
+    "price": 317.89,
+    "unit": "500 мл",
+    "old_price": 423.89
+  },
+  {
+    "name": "Цукерки LION® вафельні 500г",
+    "photo": "https://img2.zakaz.ua/a012925137fa4fda844d6f2efd069db6/1708074132-s150x150.jpg",
+    "price": 136.9,
+    "unit": "500 г",
+    "old_price": 243.69
+  },
+  {
+    "name": "Котлети для бургера яловичі Skott Smeat Burger Patties заморожений 720г",
+    "photo": "https://img2.zakaz.ua/3f175953ea144f5e8683f44767b61b76/1693843878-s150x150.jpg",
+    "price": 237.49,
+    "unit": "720 г",
+    "old_price": 307.69
+  },
+  {
+    "name": "Суміш сухофруктів та горіхів Bakalland 100г",
+    "photo": "https://img2.zakaz.ua/b6800270dde54c04bb07f029b6e50710/1699441475-s150x150.jpg",
+    "price": 74.9,
+    "unit": "100 г",
+    "old_price": 107.89
+  },
+  {
+    "name": "Макаронні вироби La Molisana №25 мушлі 500г",
+    "photo": "https://img3.zakaz.ua/c1598006a4964cec83337cfba37bc8df/1705342424-s150x150.jpg",
+    "price": 56.5,
+    "unit": "500 г",
+    "old_price": 74.09
+  },
+  {
+    "name": "Грудинка Бащинський Українська охолоджена ~0,4кг",
+    "photo": "https://img3.zakaz.ua/src.1654190661.ad72436478c_2022-06-03_Tatiana/src.1654190661.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 367.09,
+    "unit": "за 1 кг",
+    "old_price": 515.05
+  },
+  {
+    "name": "Чипси Люкс картопляні зі смаком сметани та цибулі 133г",
+    "photo": "https://img2.zakaz.ua/src.1674227376.ad72436478c_2023-01-23_Tetiana/src.1674227376.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.41,
+    "unit": "133 г",
+    "old_price": 62.43
+  },
+  {
+    "name": "Сметана Молокія 30% 370г",
+    "photo": "https://img3.zakaz.ua/30082022.1661860049.ad72436478c_2022-08-30_Tatyana_L/30082022.1661860049.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 55.02,
+    "unit": "370 г",
+    "old_price": 63.96
+  },
+  {
+    "name": "Корейка Ятрань по-кіровоградськи копчено-варена вищий гатунок 600г",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.bbeb15b8dfc68ff878ce0ee2cf536308.150x150.jpeg",
+    "price": 399.49,
+    "unit": "за 1 кг",
+    "old_price": 531.25
+  },
+  {
+    "name": "Засіб чистячий Cillit Bang для видалення нальоту та іржі 750мл",
+    "photo": "https://img2.zakaz.ua/src.1665593361.ad72436478c_2022-10-12_Tatiana/src.1665593361.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 114.9,
+    "unit": "750 мл",
+    "old_price": 199.28
+  },
+  {
+    "name": "Засіб для інтимної гігієни Lactacyd з дозатором 200мл",
+    "photo": "https://img2.zakaz.ua/src.1598880149.ad72436478c_2020-08-31_Tamara/src.1598880149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 151.09,
+    "unit": "200 мл",
+    "old_price": 196.56
+  },
+  {
+    "name": "Засіб Metro Professional для миття ванної кімнати 750мл",
+    "photo": "https://img3.zakaz.ua/m.1666030520.ad72436478c_2022-10-17_Svetlana/m.1666030520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 94.9,
+    "unit": "750 мл",
+    "old_price": 119.9
+  },
+  {
+    "name": "Прокладки гігієнічні Naturella Ultra Normal 10шт",
+    "photo": "https://img2.zakaz.ua/src.1631885438.ad72436478c_2021-09-17_Tatiana/src.1631885438.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 44.2,
+    "unit": "36 г",
+    "old_price": 59.18
+  },
+  {
+    "name": "Станок Gillette Venus 3 Sensitive Blue 3шт",
+    "photo": "https://img2.zakaz.ua/src.1675191480.ad72436478c_2023-01-31_Tetiana/src.1675191480.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 132.73,
+    "unit": "шт",
+    "old_price": 182.41
+  },
+  {
+    "name": "Зубна паста Blend-a-Med Complete Protect Expert Здорова білизна 75мл",
+    "photo": "https://img2.zakaz.ua/e186feca471c42e4afcbaa8ea121500d/1710170760-s150x150.jpg",
+    "price": 78.33,
+    "unit": "75 мл",
+    "old_price": 121.79
+  },
+  {
+    "name": "Ковбаса Алан Сервелат сирокопчена 375г",
+    "photo": "https://img2.zakaz.ua/src.1671698247.ad72436478c_2022-12-22_TetianaM/src.1671698247.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 195.99,
+    "unit": "375 г",
+    "old_price": 296.69
+  },
+  {
+    "name": "Йогурт Молокія білий 1,6% 300г",
+    "photo": "https://img2.zakaz.ua/30082022.1661869070.ad72436478c_2022-08-30_Tatyana_L/30082022.1661869070.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 25.9,
+    "unit": "300 г",
+    "old_price": 34.01
+  },
+  {
+    "name": "Морозиво Три Ведмеді Моржо пломбір 500г",
+    "photo": "https://img3.zakaz.ua/408b607a294e4fd4af3b9a87fc2e1521/1692627035-s150x150.jpg",
+    "price": 86.29,
+    "unit": "500 г",
+    "old_price": 117.61
+  },
+  {
+    "name": "Ковбаса Укрпромпостач-95 Переяславська сиров'ялена в/ґ 405г",
+    "photo": "https://img3.zakaz.ua/m.1607605265.ad72436478c_2020-12-10_Svetlana/m.1607605265.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 184.44,
+    "unit": "405 г",
+    "old_price": 246.87
+  },
+  {
+    "name": "Редис червоний",
+    "photo": "https://img2.zakaz.ua/upload.version_1.0.24a51ff0541bb8ab36cb2e456751676b.150x150.jpeg",
+    "price": 72.7,
+    "unit": "за 1 кг",
+    "old_price": 98.7
+  },
+  {
+    "name": "Напій Alpro соєвий без цукру 1л",
+    "photo": "https://img3.zakaz.ua/9ba20c9cbd064e65bba690fd81ffd42e/1712033081-s150x150.jpg",
+    "price": 110.14,
+    "unit": "1 л",
+    "old_price": 134.06
+  },
+  {
+    "name": "Хустинки паперові Bella №1 двошарові 224шт",
+    "photo": "https://img2.zakaz.ua/baf514a9d1484a5f927ae3e23447bf3c/1700584672-s150x150.jpg",
+    "price": 72.7,
+    "unit": "шт",
+    "old_price": 142.38
+  },
+  {
+    "name": "Засiб для миття посуду Frosch Aloe Vera 750мл",
+    "photo": "https://img3.zakaz.ua/281021.1635782809.ad72436478c_2021-11-01_Svetlana/281021.1635782809.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 92.9,
+    "unit": "750 мл",
+    "old_price": 124.9
+  },
+  {
+    "name": "Прокладки гігієнічні Naturella Ultra Normal 40шт",
+    "photo": "https://img2.zakaz.ua/src.1631886152.ad72436478c_2021-09-17_Tatiana/src.1631886152.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 159.02,
+    "unit": "144 г",
+    "old_price": 233.9
+  },
+  {
+    "name": "Вино Predella Montepulciano d`Abruzzo червоне сухе 12,5% 0,75л",
+    "photo": "https://img3.zakaz.ua/v.1643372008.ad72436478c_2022-01-28_Svetlana/v.1643372008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 124.9,
+    "unit": "750 мл",
+    "old_price": 159.89
+  },
+  {
+    "name": "Кондиціонер-ополіскувач Silan Aromatherapy Dreamy Lotus 1,1л та Кондиціонер-ополіскувач Silan Aromatherapy Fascinating Frangipani 1,1л",
+    "photo": "https://img3.zakaz.ua/4ab7ac9e37e34090a6dcc958c6a32074/1709640654-s150x150.jpg",
+    "price": 248.29,
+    "unit": "2.2 л",
+    "old_price": 388.69
+  },
+  {
+    "name": "Ікра минтая Veladis пробійна слабосолена 180г",
+    "photo": "https://img3.zakaz.ua/3d270549318d4878b6b6ca1b417ec7c9/1680166938-s150x150.jpg",
+    "price": 91.69,
+    "unit": "180 г",
+    "old_price": 110.05
+  },
+  {
+    "name": "Гель для гоління Satin Care Sensitive Skin для жінок 200мл",
+    "photo": "https://img3.zakaz.ua/src.1631261372.ad72436478c_2021-09-10_Tatiana/src.1631261372.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 151.09,
+    "unit": "200 мл",
+    "old_price": 198.61
+  },
+  {
+    "name": "Хінкалі Геркулес міні заморожені 800г",
+    "photo": "https://img2.zakaz.ua/done.1596535569.ad72436478c_2020-08-04_Svetlana/done.1596535569.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 137.69,
+    "unit": "800 г",
+    "old_price": 189.63
+  },
+  {
+    "name": "Йогурт Ростишка Персик 2% 115г",
+    "photo": "https://img2.zakaz.ua/dab46c3f2e9c468099a0193545d2a3c1/1706012908-s150x150.jpg",
+    "price": 9.26,
+    "unit": "115 г",
+    "old_price": 13.1
+  },
+  {
+    "name": "Йогурт Ростишка Банан 2% 115г",
+    "photo": "https://img2.zakaz.ua/15898c391098456284189115a525c81f/1706012908-s150x150.jpg",
+    "price": 9.26,
+    "unit": "115 г",
+    "old_price": 13.1
+  },
+  {
+    "name": "Засіб чистячий Cillit Bang Чистота та блиск ванної кімнати 750мл",
+    "photo": "https://img2.zakaz.ua/src.1665591988.ad72436478c_2022-10-12_Tatiana/src.1665591988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 119.9,
+    "unit": "750 мл",
+    "old_price": 211.89
+  },
+  {
+    "name": "Мило рідке Duru соковитий мандарин та грейпфрут 300мл",
+    "photo": "https://img2.zakaz.ua/8732b3442e7d4142889c7c10f66ca39f/1687245420-s150x150.jpg",
+    "price": 46.53,
+    "unit": "300 мл",
+    "old_price": 74.2
+  },
+  {
+    "name": "Засіб для миття посуду Fairy Extra+ Цитрус 650мл",
+    "photo": "https://img3.zakaz.ua/src.1663099068.ad72436478c_2022-09-13_Tatiana/src.1663099068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 99.25,
+    "unit": "650 мл",
+    "old_price": 148.93
+  },
+  {
+    "name": "Цукерки NESTLÉ® LION® White Rock вафельні 500г",
+    "photo": "https://img3.zakaz.ua/aa3dc64c1d224bdebf724bfee34c8754/1708074132-s150x150.jpg",
+    "price": 136.9,
+    "unit": "500 г",
+    "old_price": 243.69
+  },
+  {
+    "name": "Напій Martini Bianco Spritz алкогольний на основі вина 8% 0,75л",
+    "photo": "https://img2.zakaz.ua/src.1621847500.ad72436478c_2021-05-24_Tatiana/src.1621847500.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 257.0,
+    "unit": "750 мл",
+    "old_price": 379.9
+  },
+  {
+    "name": "Готові сніданки Metro Chef Дуо Кульки глазуровані 500г",
+    "photo": "https://img2.zakaz.ua/2d6bc2f3c7f94b9083690a8b8df4a162/1695223166-s150x150.jpg",
+    "price": 64.9,
+    "unit": "500 г",
+    "old_price": 79.9
+  },
+  {
+    "name": "Цукерки NESTLÉ® NESQUIK® смак какао вафельні 400г",
+    "photo": "https://img2.zakaz.ua/e1e1896e6cc04ab0a8425169c96b5b52/1708074132-s150x150.jpg",
+    "price": 101.9,
+    "unit": "400 г",
+    "old_price": 166.31
+  },
+  {
+    "name": "Капсули для прання Persil Power Caps Color 35шт",
+    "photo": "https://img3.zakaz.ua/upload.version_1.0.0af739b2a4287f5cfce9c82d5ac7863b.150x150.jpeg",
+    "price": 459.9,
+    "unit": "шт",
+    "old_price": 945.0
+  },
+  {
+    "name": "Капсули для прання Savex Super Caps Color 28шт",
+    "photo": "https://img3.zakaz.ua/src.1637576842.ad72436478c_2021-11-22_Tamara/src.1637576842.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 280.69,
+    "unit": "шт",
+    "old_price": 367.09
+  },
+  {
+    "name": "Серветки вологі Smile Antibacterial з подорожником 100шт",
+    "photo": "https://img3.zakaz.ua/09022021.1612872873.ad72436478c_2021-02-09_Tatyana_L/09022021.1612872873.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 89.99,
+    "unit": "шт",
+    "old_price": 142.04
+  },
+  {
+    "name": "Сніданок сухий Start! Пластівці кукурудзяні Медові 700г",
+    "photo": "https://img3.zakaz.ua/01.1643126030.ad72436478c_2022-01-25_Victoria/01.1643126030.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 80.45,
+    "unit": "700 г",
+    "old_price": 110.13
+  },
+  {
+    "name": "Манго Bakalland сушений 70г",
+    "photo": "https://img3.zakaz.ua/8ffa0c73eb694af88469b544839f3432/1699441475-s150x150.jpg",
+    "price": 89.9,
+    "unit": "70 г",
+    "old_price": 129.49
+  },
+  {
+    "name": "Інжир Bakalland сушений 100г",
+    "photo": "https://img2.zakaz.ua/src.1610372554.ad72436478c_2021-01-12_Svetlana/src.1610372554.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 74.9,
+    "unit": "100 г",
+    "old_price": 107.89
+  },
+  {
+    "name": "Напій газований Бон Буассон Байкал 2л",
+    "photo": "https://img2.zakaz.ua/src.1628779009.ad72436478c_2021-08-12_Tamara/src.1628779009.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+    "price": 29.57,
+    "unit": "2 л",
+    "old_price": 37.31
+  },
+  {
+    "name": "Стейк свинячий Глобино А-ля Хвилинка в Кавказькому маринаді 400г",
+    "photo": "https://img2.zakaz.ua/4ea57f92378c44518e4a7a2eaa4b2403/1682513376-s150x150.jpg",
+    "price": 107.89,
+    "unit": "400 г",
+    "old_price": 135.97
+  },
+  {
+    "name": "Йогурт Молокія Полуниця 2% 240г",
+    "photo": "https://img2.zakaz.ua/a54525ae665c4ac3a25ea2f23fbb1aab/1709640654-s150x150.jpg",
+    "price": 25.9,
+    "unit": "240 г",
+    "old_price": 35.57
+  }
+]
